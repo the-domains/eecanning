@@ -4,11 +4,18 @@
         <description><![CDATA[Erin Canning]]></description>
         <link>https://thegrid.ai/eecanning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 19:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 19:39:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eecanning/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Education]]></title>
+            <description><![CDATA[<p>University of Toronto, Master of InformationInformation SystemsSystems Analysis & InnovationData Modeling & DesignInformation Management & SystemsInformation ArchitectureUser-Centered DesignUsability AnalysisProject Management</p>]]></description>
+            <link>https://thegrid.ai/eecanning/education/index.html</link>
+            <guid isPermaLink="false">86903a6f-ec5c-45ce-b654-1c2584e4ba16</guid>
+            <pubDate>Tue, 19 Jul 2016 19:39:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<p>Masters student at the University of Toronto. Masters of Information: Information Systems & Design, User Experience Design (2018) Master of Museum Studies (2018)</p>]]></description>
+            <description><![CDATA[<p>Masters student at the University of Toronto.Masters of Information: Information Systems & Design, User Experience Design (2018)Master of Museum Studies (2018)</p>]]></description>
             <link>https://thegrid.ai/eecanning/about-me/index.html</link>
             <guid isPermaLink="false">f3e7a341-06a6-4d09-bf15-a713307c6980</guid>
             <pubDate>Tue, 19 Jul 2016 19:26:11 GMT</pubDate>
