@@ -4,8 +4,15 @@
         <description><![CDATA[Erin Canning]]></description>
         <link>https://thegrid.ai/eecanning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 19:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 19:46:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eecanning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tweets by eecanning</p>]]></description>
+            <link>https://thegrid.ai/eecanning/tweets-by-eecanning/index.html</link>
+            <guid isPermaLink="false">107002a0-dbf7-4944-9329-a23cbe359f63</guid>
+            <pubDate>Tue, 19 Jul 2016 19:46:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Education]]></title>
             <description><![CDATA[<p>University of Toronto, Master of InformationInformation Systems & Design:Information SystemsSystems Analysis & InnovationData Modeling & DesignInformation Management & Systems</p>]]></description>
