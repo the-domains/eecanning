@@ -5,11 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  University of Toronto, Master of Information Information Systems & Design:
+  University of Toronto, Master of InformationInformation Systems & Design:
   Information Systems Systems Analysis & Innovation Data Modeling & Design
   Information Management & Systems
-datePublished: '2016-07-19T19:45:59.155Z'
-dateModified: '2016-07-19T19:42:05.997Z'
+datePublished: '2016-07-19T19:52:12.955Z'
+dateModified: '2016-07-19T19:46:05.704Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-19-education.md
