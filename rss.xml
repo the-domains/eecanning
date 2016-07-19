@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eecanning]]></title>
+        <description><![CDATA[eecanning]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 19:19:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<p> I am a Masters student at the University of Toronto.Masters of Information: Information Systems & Design, User Experience Design (2018)Master of Museum Studies (2018)</p>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">f3e7a341-06a6-4d09-bf15-a713307c6980</guid>
+            <pubDate>Tue, 19 Jul 2016 19:19:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
